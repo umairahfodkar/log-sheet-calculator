@@ -17,7 +17,7 @@ This sheet stores daily machinery usage data such as start time, end time, and o
 ### 2. Monthly Bill Calculator
 This sheet calculates the total monthly charges based on the input data, including fixed rate and overtime charges.
 
-![Monthly Bill Screenshot](screenshots/monthly_bill.png)
+![Monthly Bill Screenshot](screenshots/finalbill.png)
 
 ## How to Use
 1. Download both Excel sheets: `machinery_log_data.xlsx` and `monthly_bill_calculator.xlsx`.
