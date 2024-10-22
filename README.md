@@ -12,7 +12,7 @@ This project is an Excel-based machinery bill calculator that helps manage fixed
 ### 1. Data Table
 This sheet stores daily machinery usage data such as start time, end time, and overtime hours.
 
-![Data Table Screenshot](screenshots/data_table.pn)
+![Data Table Screenshot](screenshots/datatable.png)
 
 ### 2. Monthly Bill Calculator
 This sheet calculates the total monthly charges based on the input data, including fixed rate and overtime charges.
